@@ -3,7 +3,7 @@
 https://loudlines-api.herokuapp.com/odds/:team
 
 ## Example
-https://loudlines-api.herokuapp.com/odds/Lakers
+GET https://loudlines-api.herokuapp.com/odds/Lakers
 
 ### Result: 
 
