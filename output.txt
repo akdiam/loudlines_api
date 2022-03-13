@@ -1,0 +1,12 @@
+{
+  "team1": {
+    "name": "Memphis Grizzlies",
+    "odds": -425
+  },
+  "team2": {
+    "name": "New York Knicks",
+    "odds": 320
+  }
+}
+Remaining requests 490
+Used requests 10
